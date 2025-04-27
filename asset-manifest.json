@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ibitz_test_pages/static/css/main.e19123b4.css",
+    "main.js": "/ibitz_test_pages/static/js/main.f9b67f1b.js",
+    "static/media/bg.png": "/ibitz_test_pages/static/media/bg.75480716cd307fe36f09.png",
+    "index.html": "/ibitz_test_pages/index.html",
+    "main.e19123b4.css.map": "/ibitz_test_pages/static/css/main.e19123b4.css.map",
+    "main.f9b67f1b.js.map": "/ibitz_test_pages/static/js/main.f9b67f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19123b4.css",
+    "static/js/main.f9b67f1b.js"
+  ]
+}
